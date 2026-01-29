@@ -30,3 +30,10 @@
 1. [151.反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/description/)
 2. [48.旋转图像](https://leetcode.cn/problems/rotate-image/description/)
 3. [54.螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/description/)
+
+## 2哈希
+
+---
+
+1. [123.最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/description/)
+2. [49.字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/)
