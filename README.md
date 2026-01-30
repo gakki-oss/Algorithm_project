@@ -31,9 +31,18 @@
 2. [48.旋转图像](https://leetcode.cn/problems/rotate-image/description/)
 3. [54.螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/description/)
 
+---
+
 ## 2哈希
 
 ---
 
 1. [123.最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/description/)
 2. [49.字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/)
+
+## 3双指针
+
+---
+
+1. [11.接雨水](https://leetcode.cn/problems/container-with-most-water/description/)
+2. [238.移动零](https://leetcode.cn/problems/move-zeroes/description/)
