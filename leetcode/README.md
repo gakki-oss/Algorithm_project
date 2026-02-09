@@ -47,3 +47,15 @@
 1. [11.接雨水](https://leetcode.cn/problems/container-with-most-water/description/)
 2. [238.移动零](https://leetcode.cn/problems/move-zeroes/description/)
 3. [15.三数和](https://leetcode.cn/problems/3sum/description/)
+
+## 4滑动窗口
+
+---
+
+1. [438.找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/)
+
+## 5子串
+
+---
+
+1. [560.和为K的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/description/)
